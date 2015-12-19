@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CurrentTimeService:war">
+    <output-path>$PROJECT_DIR$/CurrentTimeService/target</output-path>
+    <root id="archive" name="CurrentTimeService-1.0.war">
+      <element id="artifact" artifact-name="CurrentTimeService:war exploded" />
+    </root>
+  </artifact>
+</component>
